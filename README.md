@@ -2,7 +2,7 @@
 
 I like to learn new things. I like to record all the problem and document on how I solve it.  Therefore, I like to make tutorial of new things I learned on my Github to save your time. </br>
 
-### Education
+### Education 👨‍🎓
 National Taiwan University (NTU)   Bio Mechatronics Engineering (B.S.) 2011 ~ 2015 ([Battery Research](https://github.com/Dungyichao/Dungyichao/blob/main/Documents/International%20Society%20of%20electrochemistry%20%20conference%20poster%20%26%20Dissertation.pdf))</br>
 Purdue University (West Lafayette) Mechanical Engineering       (M.S.) 2016 ~ 2017
 <!--
