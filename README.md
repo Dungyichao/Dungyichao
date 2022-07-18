@@ -1,7 +1,7 @@
 <h1 align=center>Welcome to Dung-Yi Github 👋</h1> 
 
 ### Education
-National Taiwan University (NTU)   Bio Mechatronics Engineering (B.S.) 2011 ~ 2015
+National Taiwan University (NTU)   Bio Mechatronics Engineering (B.S.) 2011 ~ 2015 </br>
 Purdue University (West Lafayette) Mechanical Engineering       (M.S.) 2016 ~ 2017
 <!--
 **Dungyichao/Dungyichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
