@@ -1,12 +1,6 @@
 <h1 align=center>Welcome to Dung-Yi Github 👋</h1> 
 
 ### Education
-<p style={{'white-space': 'pre-wrap'}}>
-    "National Taiwan University (NTU)   Bio Mechatronics Engineering (B.S.) 2011 ~ 2015"
-</p>
-<p style={{'white-space': 'pre-wrap'}}>
-    "Purdue University (West Lafayette) Mechanical Engineering       (M.S.) 2016 ~ 2017"
-</p>
 National Taiwan University (NTU)   Bio Mechatronics Engineering (B.S.) 2011 ~ 2015 ([Battery Research](https://github.com/Dungyichao/Dungyichao/blob/main/Documents/International%20Society%20of%20electrochemistry%20%20conference%20poster%20%26%20Dissertation.pdf))</br>
 Purdue University (West Lafayette) Mechanical Engineering       (M.S.) 2016 ~ 2017
 <!--
