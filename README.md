@@ -8,7 +8,7 @@ Purdue University (West Lafayette) Mechanical Engineering       (M.S.) 2016 ~ 20
 </br>
 
 ## Travel ✈️
-USA🗽🏈, Japan🗼🎎⛩, Singapore🚢, Canada🍁, Hong Kong🚠, Greece🏛, Cyprus🏄🏻, UK💂🏻‍♂️, France🏰, Switzerland⛷️, Indonesia🌴, India🧞, Australia🦘, Italy🍕, China🐉
+USA🗽🏈, Japan🗼🎎⛩, Singapore🚢, Canada🍁, Hong Kong🚠, Greece🏛, Cyprus🏄🏻, UK💂🏻‍♂️, France🏰, Switzerland⛷️, Indonesia🌴, India🧞, Australia🦘, Italy🍕, China🐉, New Zealand 🏔️
 <!--
 **Dungyichao/Dungyichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
